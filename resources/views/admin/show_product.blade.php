@@ -80,7 +80,7 @@
                         <th class="th_deg">Discount Price</th>
                         <th class="th_deg">Product Image</th>
                         <th class="th_deg">Delete</th>
-                        <th class="th_deg">Edit</th>
+                        <th class="th_deg">Update</th>
                     </tr>
 
                     @foreach($product as $product)
@@ -103,7 +103,7 @@
                         </td>
 
                         <td>
-                            <a class="btn btn-success" href="{{url('update_product',$product->id)}}">Edit</a>
+                            <a class="btn btn-success" href="{{url('update_product',$product->id)}}">Update</a>
                         </td>
 
                     </tr>

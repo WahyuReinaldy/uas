@@ -14,7 +14,7 @@
                 <div class="option_container">
                    <div class="options">
                       <a href="{{url('product_details',$products->id)}}" class="option1">
-                      Product Details
+                      Product Detail
                       </a>
 
                       <form action="{{url('add_cart',$products->id)}}" method="Post">
