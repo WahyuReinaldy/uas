@@ -11,19 +11,15 @@
                       <div class="detail-box">
                          <h1>
                             <span>
-                            Sale 20% Off
+                            Fetri
                             </span>
                             <br>
-                            On Everything
+                            Donuts
                          </h1>
                          <p>
-                            Explicabo esse amet tempora quibusdam laudantium, laborum eaque magnam fugiat hic? Esse dicta aliquid error repudiandae earum suscipit fugiat molestias, veniam, vel architecto veritatis delectus repellat modi impedit sequi.
+                            Selamat datang di Fetri Donut, destinasi online terbaik untuk semua pecinta donat di seluruh penjuru kota! Kami dengan bangga menyajikan koleksi donat pilihan terbaik, yang dibuat dengan cinta dan keahlian oleh para tukang donat berbakat kami.
                          </p>
-                         <div class="btn-box">
-                            <a href="" class="btn1">
-                            Shop Now
-                            </a>
-                         </div>
+
                       </div>
                    </div>
                 </div>
@@ -36,19 +32,15 @@
                       <div class="detail-box">
                          <h1>
                             <span>
-                            Sale 20% Off
+                            Fetri
                             </span>
                             <br>
-                            On Everything
+                           Donuts
                          </h1>
                          <p>
-                            Explicabo esse amet tempora quibusdam laudantium, laborum eaque magnam fugiat hic? Esse dicta aliquid error repudiandae earum suscipit fugiat molestias, veniam, vel architecto veritatis delectus repellat modi impedit sequi.
+                            Kami hanya menggunakan bahan-bahan berkualitas tinggi untuk memastikan setiap donat yang Anda pesan di DonatDelight.com memiliki rasa yang luar biasa dan konsistensi yang sempurna. Kami mengutamakan kualitas untuk memastikan kepuasan pelanggan.
                          </p>
-                         <div class="btn-box">
-                            <a href="" class="btn1">
-                            Shop Now
-                            </a>
-                         </div>
+
                       </div>
                    </div>
                 </div>
@@ -61,19 +53,15 @@
                       <div class="detail-box">
                          <h1>
                             <span>
-                            Sale 20% Off
+                            Fetri
                             </span>
                             <br>
-                            On Everything
+                           Donuts
                          </h1>
                          <p>
-                            Explicabo esse amet tempora quibusdam laudantium, laborum eaque magnam fugiat hic? Esse dicta aliquid error repudiandae earum suscipit fugiat molestias, veniam, vel architecto veritatis delectus repellat modi impedit sequi.
+                            Temukan beragam varian donat yang memikat hati, mulai dari klasik glazed hingga donat cokelat leleh dan inovasi terbaru kami seperti donat matcha dan red velvet. Kami terus memperbarui menu kami untuk memberikan pengalaman donat yang selalu segar dan menarik.
                          </p>
-                         <div class="btn-box">
-                            <a href="" class="btn1">
-                            Shop Now
-                            </a>
-                         </div>
+
                       </div>
                    </div>
                 </div>

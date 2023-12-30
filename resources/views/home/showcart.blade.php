@@ -11,7 +11,7 @@
       <meta name="description" content="" />
       <meta name="author" content="" />
       <link rel="shortcut icon" href="images/favicon.png" type="">
-      <title>Famms - Fashion HTML Template</title>
+      <title>Fetri Donuts</title>
       <!-- bootstrap core css -->
       <link rel="stylesheet" type="text/css" href="home/css/bootstrap.css" />
       <!-- font awesome style -->
@@ -26,7 +26,7 @@
         .center
         {
             margin: auto;
-            width: 50%;
+            width: 70%;
             text-align: center;
             padding: 30px;
         }
@@ -44,12 +44,73 @@
             background: skyblue;
         }
 
+        .img_deg
+        {
+            height: 200px;
+            width: 200px;
+        }
+
+        .total_deg
+        {
+            font-size: 20px;
+            padding: 40px;
+        }
+
     </style>
    </head>
    <body>
       <div class="hero_area">
          <!-- header section strats -->
-            @include('home.header')
+         <header class="header_section">
+            <div class="container">
+               <nav class="navbar navbar-expand-lg custom_nav-container ">
+                  <a class="navbar-brand" href="{{url('/')}}"><img width="250" src="images/fetri logo (1).png" alt="#" /></a>
+                  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                  <span class=""> </span>
+                  </button>
+                  <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                     <ul class="navbar-nav">
+                        <li class="nav-item">
+                           <a class="nav-link" href="{{url('/')}}">Home <span class="sr-only">(current)</span></a>
+                        </li>
+
+
+                        <li class="nav-item active">
+                            <a class="nav-link" href="{{url('show_cart')}}">Orders</a>
+                         </li>
+
+
+
+                         @if (Route::has('login'))
+
+                         @auth
+
+                         <li class="nav-item">
+                            <x-app-layout>
+
+                            </x-app-layout>
+                         </li>
+
+                         @else
+
+                        <li class="nav-item">
+                            <a class="btn btn-primary" id="logincss" href="{{ route('login') }}">Login</a>
+                         </li>
+
+                         <li class="nav-item">
+                            <a class="btn btn-success" href="{{ route('register') }}">Register</a>
+                         </li>
+                         @endauth
+
+                         @endif
+
+
+                     </ul>
+                  </div>
+               </nav>
+            </div>
+         </header>
+
          <!-- end header section -->
          <!-- slider section -->
 
@@ -71,33 +132,43 @@
 
             </tr>
 
+
+
             @foreach($cart as $cart)
 
             <tr>
 
                 <td>{{$cart->product_title}}</td>
                 <td>{{$cart->quantity}}</td>
-                <td>{{$cart->price}}</td>
-                <td><img src="/product/{{$cart->image}}"></td>
-                <td></td>
+                <td>Rp {{$cart->price}}</td>
+                <td><img class="img_deg" src="/product/{{$cart->image}}"></td>
+                <td>
+                    <a class="btn btn-danger" onclick="return confirm('Are you sure to remove this product ?')" href="
+                    {{url('/remove_orders',$cart->id)}}">Cancel</a></td>
 
 
             </tr>
 
+
+
             @endforeach
 
+
+
         </table>
+
+
 
 
       </div>
 
       <!-- footer start -->
-            @include('home.footer')
+
       <!-- footer end -->
       <div class="cpy_">
-         <p class="mx-auto">© 2021 All Rights Reserved By <a href="https://html.design/">Free Html Templates</a><br>
+         <p class="mx-auto">© 2021 All Rights Reserved By <a href="https://html.design/">Some Site</a><br>
 
-            Distributed By <a href="https://themewagon.com/" target="_blank">ThemeWagon</a>
+            Distributed By <a href="https://themewagon.com/" target="_blank">Someone</a>
 
          </p>
       </div>

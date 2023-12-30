@@ -89,7 +89,7 @@
 
                         <td>
 
-                            <a onclick="return confirm('Are You Sure To Delete This')" class="btn btn-danger" href="{{url('delete_catagory',$data->id)}}">Delete</a>
+                            <a onclick="return confirm('yakin hapus')" class="btn btn-danger" href="{{url('delete_catagory',$data->id)}}">Delete</a>
 
                         </td>
 

@@ -8,15 +8,13 @@
              <div class="col-md-6 ml-auto">
                 <div class="heading_container remove_line_bt">
                    <h2>
-                      #NewArrivals
+                     Kenyamanan Berbelanja
                    </h2>
                 </div>
                 <p style="margin-top: 20px;margin-bottom: 30px;">
-                   Vitae fugiat laboriosam officia perferendis provident aliquid voluptatibus dolorem, fugit ullam sit earum id eaque nisi hic? Tenetur commodi, nisi rem vel, ea eaque ab ipsa, autem similique ex unde!
+                    Nikmati kemudahan berbelanja donat tanpa harus keluar rumah. Navigasi yang sederhana dan antarmuka pengguna yang ramah memastikan Anda dapat menemukan donat yang Anda inginkan dengan cepat dan mudah.
                 </p>
-                <a href="">
-                Shop Now
-                </a>
+
              </div>
           </div>
        </div>

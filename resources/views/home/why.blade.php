@@ -2,7 +2,7 @@
     <div class="container">
        <div class="heading_container heading_center">
           <h2>
-             Why Shop With Us
+             Pesan sekarang di Fetri Donuts
           </h2>
        </div>
        <div class="row">
@@ -97,10 +97,10 @@
                 </div>
                 <div class="detail-box">
                    <h5>
-                      Fast Delivery
+                      Pengantaran Cepat
                    </h5>
                    <p>
-                      variations of passages of Lorem Ipsum available
+
                    </p>
                 </div>
              </div>
@@ -212,10 +212,10 @@
                 </div>
                 <div class="detail-box">
                    <h5>
-                      Free Shiping
+                     Harga Terjangkau
                    </h5>
                    <p>
-                      variations of passages of Lorem Ipsum available
+
                    </p>
                 </div>
              </div>
@@ -233,10 +233,10 @@
                 </div>
                 <div class="detail-box">
                    <h5>
-                      Best Quality
+                     Kualitas Terbaik
                    </h5>
                    <p>
-                      variations of passages of Lorem Ipsum available
+
                    </p>
                 </div>
              </div>

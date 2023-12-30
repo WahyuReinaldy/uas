@@ -2,7 +2,7 @@
     <div class="container">
        <div class="heading_container heading_center">
           <h2>
-             Customer's Testimonial
+             Testimoni Pelanggan
           </h2>
        </div>
        <div id="carouselExample3Controls" class="carousel slide" data-ride="carousel">
@@ -21,10 +21,10 @@
                          Anna Trevor
                       </h5>
                       <h6>
-                         Customer
+                         Pelanggan
                       </h6>
                       <p>
-                         Dignissimos reprehenderit repellendus nobis error quibusdam? Atque animi sint unde quis reprehenderit, et, perspiciatis, debitis totam est deserunt eius officiis ipsum ducimus ad labore modi voluptatibus accusantium sapiente nam! Quaerat.
+                        Fetri Donuts adalah surga bagi pencinta donat seperti saya! Saya sudah beberapa kali memesan donat dari sini, dan setiap kali rasanya tetap luar biasa. Kualitas donatnya selalu terjaga, dan saya sangat menghargai kecepatan pengiriman mereka. Fetri Donuts benar-benar memanjakan lidah saya!
                       </p>
                    </div>
                 </div>
@@ -40,13 +40,13 @@
                    </div>
                    <div class="detail-box">
                       <h5>
-                         Anna Trevor
+                         Alisa Mayonais
                       </h5>
                       <h6>
-                         Customer
+                         Pelanggan
                       </h6>
                       <p>
-                         Dignissimos reprehenderit repellendus nobis error quibusdam? Atque animi sint unde quis reprehenderit, et, perspiciatis, debitis totam est deserunt eius officiis ipsum ducimus ad labore modi voluptatibus accusantium sapiente nam! Quaerat.
+                        Saya adalah penggemar berat donat klasik, dan Fetri Donuts memberikan yang terbaik! Donat lumer mereka adalah yang terenak yang pernah saya coba. Selain rasa yang lezat, proses pemesanan online mereka sangat mudah dan efisien. Saya sangat merekomendasikan kepada semua pecinta donat!
                       </p>
                    </div>
                 </div>
@@ -62,13 +62,13 @@
                    </div>
                    <div class="detail-box">
                       <h5>
-                         Anna Trevor
+                         Susi Susanti
                       </h5>
                       <h6>
-                         Customer
+                         Pelanggan
                       </h6>
                       <p>
-                         Dignissimos reprehenderit repellendus nobis error quibusdam? Atque animi sint unde quis reprehenderit, et, perspiciatis, debitis totam est deserunt eius officiis ipsum ducimus ad labore modi voluptatibus accusantium sapiente nam! Quaerat.
+                        Saya baru pertama kali mencoba donat dari Fetri Donuts, dan saya benar-benar terkesan! Donat mereka lembut dan penuh rasa. Proses pesanannya cepat dan tanpa masalah. Saya juga senang dengan opsi pembayaran yang fleksibel. Fetri Donuts, saya pasti akan menjadi pelanggan setia!
                       </p>
                    </div>
                 </div>

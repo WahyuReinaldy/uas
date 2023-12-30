@@ -2,7 +2,7 @@
     <div class="container">
        <div class="heading_container heading_center">
           <h2>
-             Our <span>products</span>
+             Produk <span>Kami</span>
           </h2>
        </div>
        <div class="row">
@@ -31,7 +31,7 @@
 
                             <div class="col-md-4">
 
-                                <input type="submit" value="Add To Cart">
+                                <input type="submit" value="Order">
 
                             </div>
 
